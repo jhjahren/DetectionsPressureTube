@@ -1,0 +1,13 @@
+train: data/train/currenttrainingdata
+val: data/test
+nc: 9
+names: ['cleanerfish',
+        'eye',
+        'fish',
+        'head',
+        'mouth',
+        'pectoral_fin',
+        'tail_caudal_fin',
+        'top_dorsal_fin',
+        'wound',
+]
